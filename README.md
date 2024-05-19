@@ -15,7 +15,7 @@ A web application demonstrating drag-and-drop functionality using HTML, CSS, and
 
 ## Usage
 
-Open `index.html` in your web browser to use the drag-and-drop functionality.
+Open `dragAndDrop.html` in your web browser to use the drag-and-drop functionality.
 
 ## Contributing
 
