@@ -11,7 +11,7 @@ A web application demonstrating drag-and-drop functionality using HTML, CSS, and
    ```bash
    cd Draggable_and_Droppable_HTML_CSS_JS
    ```
-3. **Open `index.html` in a web browser.**
+3. **Open `dragAndDrop.html` in a web browser.**
 
 ## Usage
 
